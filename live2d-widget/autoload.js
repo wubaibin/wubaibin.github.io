@@ -1,5 +1,5 @@
 // 注意：live2d_path 参数应使用绝对路径
-const live2d_path = "https://github.com/wubaibin/wubaibin.github.io/tree/main/live2d-widget/";
+const live2d_path = "https://haiyong.site/live2d-widget/";
 //const live2d_path = "/live2d-widget/";
 
 // 封装异步加载资源的方法
